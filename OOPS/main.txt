@@ -1,0 +1,21 @@
+*************** Python OOPS ***************
+
+OOPS :- Is a way to write code in a more scalable way rather than procedural(line by line coding) and functional(write functions and calling it) way and it is not useful in real world cases.
+
+1. In oops we will create a blueprint and re use it. (for example in laptop there is keyboard, touch pad, screen, sockets )
+
+2. We can define own data type and generality to specificity
+
+***************  OOPS *************** 
+Class :- blueprint or self defined data type.
+
+Class have Two things 
+
+Data/ attributes/ property :- (color brand, top_speed)
+Behaviour/Methods :- car (accelerate, break, start )
+
+Object :- Instance of our class (everythi ng in python is object)
+Encapsulation 
+Inheritance 
+Polymorphism 
+Abstraction 
